@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saranashok
-- 👀 I’m interested in kubernetes
+- 👀 I’m interested in unix shell scripting
 - 🌱 I’m currently learning ...kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
